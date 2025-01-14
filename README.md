@@ -7,6 +7,10 @@ The man goal is create a website with my professional information.
 
 <img src="https://github.com/viniciusgorges/site-portfolio/blob/master/preview.png" height="500"/>
 
+## Live Link:
+
+https://viniciusgorges.github.io/site-portfolio/
+
 ## Main concepts applied
 
 - Flexbox
