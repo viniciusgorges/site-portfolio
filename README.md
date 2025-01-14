@@ -3,6 +3,10 @@
 This is a project to start the studies about HTML, CSS and JS.
 The man goal is create a website with my professional information.
 
+# Preview
+
+<im src="https://github.com/viniciusgorges/site-portfolio/blob/master/preview.png" height="500"/>
+
 ## Main concepts applied
 
 - Flexbox
