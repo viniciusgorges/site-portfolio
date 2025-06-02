@@ -147,7 +147,7 @@ footer {
 
 .hero-info-image {
   height: 405px;
-  width: 370px;
+  width: 340px;
   border-radius: 40px;
   border-color: rgb(151, 210, 214);
   border-width: 4px;
@@ -264,7 +264,7 @@ footer {
 }
 
 .section-portfolio-img {
-  width: 220px;
+  width: 120px;
   height: 156;
   margin-bottom: 12px;
 }
@@ -306,7 +306,7 @@ footer {
 }
 
 .section-experiences-card-img {
-  width: 48px;
+  width: 58px;
   height: 48px;
   border-radius: 12px;
 }
@@ -328,13 +328,13 @@ footer {
 
 .section-experiences-card-subtitle {
   font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   margin: 4px 0px 0px 0px;
 }
 
 .section-experiences-card-text {
   font-family: "Montserrat", sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   margin: 6px 0px 0px 0px;
 }
 
